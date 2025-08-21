@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VineetKumar04
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python, C programming, HTML
+- 🌱 I’m currently learning Python, C programming, HTML, Java
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me vineetojha2004@gmail.com
 - 😄 Pronouns: ...
